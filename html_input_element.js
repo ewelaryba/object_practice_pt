@@ -18,7 +18,6 @@ exports.htmlInputElement = function html_input_element(name, value, type) {
         Constructor.prototype.type = type;
     }
     return new Constructor();
-
 };
 
 /**
