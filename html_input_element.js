@@ -10,7 +10,7 @@
  * Module exports
  */
 
-module.exports = function html_input_element(name, value, type) {
+exports.htmlInputElement = function html_input_element(name, value, type) {
     function Constructor() {
         Constructor.prototype.name = name;
         Constructor.prototype.value = value;

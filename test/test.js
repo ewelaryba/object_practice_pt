@@ -27,7 +27,7 @@ describe('html_input_element object tests', function () {
 
     describe('constructor', function () {
         it('element should not change property name from "x"', function () {
-            expect(html_input_element.value).to.equal('x');
+            expect(html_input_element.name).to.equal('x');
         }),
         it('element should not change property value from "2"', function () {
             expect(html_input_element.value).to.equal('2');
