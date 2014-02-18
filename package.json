@@ -1,0 +1,13 @@
+{
+  "name": "html_input_element",
+  "description": "",
+  "version": "0.0.0",
+  "main": "html_input_element.js",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha --no-colors --reporter spec"
+  }
+}
