@@ -20,6 +20,7 @@ npm install --save html_input_element
 Welcome to the world!
 
 We're going to change it.
+Here's another change.
 ## Testing
 
 From the repo root:
