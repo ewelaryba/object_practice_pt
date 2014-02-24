@@ -21,6 +21,8 @@ Welcome to the world!
 
 We're going to change it.
 Here's another change.
+And another.
+Now we really changed the world.
 ## Testing
 
 From the repo root:
